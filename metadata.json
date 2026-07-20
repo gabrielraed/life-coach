@@ -1,0 +1,6 @@
+{
+  "name": "Life Capital AI",
+  "description": "Plataforma premium SaaS de Inteligencia Artificial que transforma el tiempo de vida en un activo medible, optimizando la expectativa de vida saludable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
